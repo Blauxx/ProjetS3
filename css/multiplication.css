@@ -1,0 +1,30 @@
+table {
+	border: medium outset #22427C;
+	border-radius:2.5px;
+	border-collapse:collapse;
+	width: 80%;
+	box-shadow: 15px 15px 0px #24445C;
+	background-color:#BBD2E1;
+	margin:50px;
+}
+td {
+	border: 1.5px solid black;
+	width: 50%;
+	font-size:19px;
+	color:#0F056B;
+	padding: 10px;
+   	text-align: center;
+}
+
+
+td.id {
+	border: 1.5px solid black;
+	width: 8%;
+	font-size:19px;
+	color:#0F056B;
+	padding: 10px;
+   	text-align: center;
+}
+
+
+tr:hover {background-color:  #9683EC}

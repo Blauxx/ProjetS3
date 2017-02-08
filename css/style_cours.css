@@ -1,0 +1,39 @@
+#bande{
+background-color:red;
+line-height : 80px;
+position: fixed;
+width : 100%
+
+}
+
+#img1{
+	width : 60px;
+	margin-left : 95%;
+}
+
+.row{
+	margin-top : 200px;
+}
+
+h3{
+	border:2px solid black;
+	margin-top:25px;
+	margin-left:25%;
+	text-align: center;
+	width:50%;
+	line-height: 50px;
+
+
+}
+#theme{
+	margin-top: 15%;
+}
+
+
+#video{
+	height:50px;
+	width: 50px;
+	margin-left:75%;
+	position:absolute;
+}
+

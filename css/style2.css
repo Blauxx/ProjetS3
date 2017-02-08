@@ -1,0 +1,58 @@
+#bande{
+	background-color:#AC0101;
+	line-height : 80px;
+	position: fixed;
+	width : 100%
+
+}
+/*STYLE DES IMAGES MENU */
+#img{
+	width : 60px;
+	margin-left : 95%;
+}
+
+.bouton_deco{
+
+	
+	position: absolute;
+	margin-right: 50px;
+	margin-top: -50px;
+
+}
+h3{
+	border:2px solid black;
+	margin-top:25px;
+	margin-left:25%;
+	text-align: center;
+	width:50%;
+	line-height: 50px;
+
+
+}
+#theme{
+	margin-top: 15%;
+	margin-right : 100px;
+}
+
+
+#video{
+	height:50px;
+	width: 50px;
+	position : absolute;
+    margin-left : 805px;
+
+}
+
+.footer{
+	position:fixed;
+	bottom : 0px;
+	background-color:#AC0101;
+	line-height : 60px;
+	width:100%
+	
+}
+
+#formulaire p{
+	padding: 20px 0px 5px 0px;
+}
+
